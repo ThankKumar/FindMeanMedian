@@ -1,0 +1,7 @@
+ 
+body{
+      background: linear-gradient(to right, red, blue,red);
+}
+.h3class{
+      background: linear-gradient(to right, black, blue,red); 
+}
